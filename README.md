@@ -25,7 +25,7 @@
   <a href="https://tinyurl.com/ycx5mmut">
     <img height=50 width=50 src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" />
   </a>
-  <a href="https://www.linkedin.com/in/%C3%A5%C5%88%C3%A3%C5%9F-m%C3%B6%C5%9B%C4%81-442074317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/anas-mosa/" target="_blank">
     <img height=50 width=50 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" />
   </a>
 </div>
